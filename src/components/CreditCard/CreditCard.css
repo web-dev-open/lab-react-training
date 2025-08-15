@@ -1,0 +1,36 @@
+.credit-card {
+  width: 300px;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 8px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.credit-card-logo {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.credit-card-logo img {
+  height: 30px;
+}
+
+.credit-card-number {
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  margin: 20px 0;
+}
+
+.credit-card-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+}
+
+.credit-card-owner {
+  margin-top: 10px;
+  font-size: 1rem;
+}

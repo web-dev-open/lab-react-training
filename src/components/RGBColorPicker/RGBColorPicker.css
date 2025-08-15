@@ -1,0 +1,15 @@
+.rgb-color-picker {
+  margin: 8px;
+}
+
+.final-color-preview {
+  width: 150px;
+  height: 50px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 0.9rem;
+}

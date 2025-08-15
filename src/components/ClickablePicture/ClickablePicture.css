@@ -1,0 +1,6 @@
+.clickable-picture {
+  width: 150px;
+  height: auto;
+  cursor: pointer;
+  margin: 8px;
+}
