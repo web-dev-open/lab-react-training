@@ -1,0 +1,27 @@
+.credit-card {
+  width: 300px;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-logo {
+  width: 60px;
+  align-self: flex-end;
+}
+
+.card-number {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.exp-bank {
+  display: flex;
+  justify-content: space-between;
+}
+
+.owner {
+  margin-top: 10px;
+}

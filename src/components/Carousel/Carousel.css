@@ -1,0 +1,15 @@
+.carousel {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.carousel img {
+  width: 150px;
+  margin: 0 10px;
+}
+
+.carousel button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
